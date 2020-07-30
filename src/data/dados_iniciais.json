@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Série Explicado",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#a3652f",
+      "link_extra": {
+        "text": "Ciência Todo Dia",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "A Segunda Lei de Newton Explicada",
+          "url": "https://www.youtube.com/watch?v=gS1FnfzG-lg"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://youtu.be/78WkQObqp3U"
+        },
+        {
+          "titulo": "A ENTROPIA EXPLICADA",
+          "url": "https://youtu.be/qjHfkfIs1Ug"
+        },
+        {
+          "titulo": "A Primeira Lei da Termodinâmica Explicada",
+          "url": "https://youtu.be/U_2AJc1mcas"
+        },
+        {
+          "titulo": "O Que É Energia? | Episódio 1",
+          "url": "https://youtu.be/3VLPyOLC1nc"
+        },
+        {
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://youtu.be/GbJJRsS6OR4"
+        },
+        {
+          "titulo": "O Fim do Universo",
+          "url": "https://youtu.be/uLh-6mQoQnU"
+        },
+        {
+          "titulo": "Supernovas Explicadas: As Maiores Explosões do Universo",
+          "url": "https://youtu.be/BPKAdgv6XUM"
+        }        
+      ]
+    },
+    {
+      "titulo": "Respostas Sérias À Perguntas Absurdas",
+      "cor": "#270d2b",
+      "link_extra": {
+        "text": "Ciência Todo Dia",
+        "url": "https://youtu.be/xxD1tcpzpU0?list=PLPz6TqSYQzDamft3yRMs7WvxCvgA-9Tgg"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://youtu.be/xxD1tcpzpU0?list=PLPz6TqSYQzDamft3yRMs7WvxCvgA-9Tgg"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://youtu.be/pI4ZY1jg_Ck?list=PLPz6TqSYQzDamft3yRMs7WvxCvgA-9Tgg"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://youtu.be/2JyZLw0o5u4?list=PLPz6TqSYQzDamft3yRMs7WvxCvgA-9Tgg"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://youtu.be/yMNasaTnBPo?list=PLPz6TqSYQzDamft3yRMs7WvxCvgA-9Tgg"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://youtu.be/R7TGHE1HFjM?list=PLPz6TqSYQzDamft3yRMs7WvxCvgA-9Tgg"
+        }
+      ]
+    },
+    {
+      "titulo": "Curso de Física Básica do Ciência Todo Dia",
+      "cor": "#fbcd28",
+      "link_extra": {
+        "text": "Ciência Todo Dia",
+        "url": "https://youtu.be/3VLPyOLC1nc?list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://youtu.be/X6mQcBdFkXQ?list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://youtu.be/RoyecFxgwTs?list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://youtu.be/Seb29XUjakk?list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm&t=3"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://youtu.be/Ei6DcLyNuyI?list=PLPz6TqSYQzDYuQ3WqF5plmN0rycwcYULm"
+        }
+      ]
+    },
+    {
+      "titulo": "Paradoxos & Conceitos Errados",
+      "cor": "#065fd4",
+      "link_extra": {
+        "text": "Ciência Todo Dia",
+        "url": "https://youtu.be/3VLPyOLC1nc?list=PLPz6TqSYQzDaJvt_LwYODnZKb5ZznCufM"
+      },
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://youtu.be/GbJJRsS6OR4?list=PLPz6TqSYQzDaJvt_LwYODnZKb5ZznCufM"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://youtu.be/-5sb11GNwG0?list=PLPz6TqSYQzDaJvt_LwYODnZKb5ZznCufMs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=QM7ZZgTeu1k&list=PLPz6TqSYQzDaJvt_LwYODnZKb5ZznCufM&index=13"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=nNAuuTIf3LE&list=PLPz6TqSYQzDaJvt_LwYODnZKb5ZznCufM&index=16"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Ciência Todo Dia",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Ciência Todo Dia",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
