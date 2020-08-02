@@ -28,4 +28,3 @@ module.exports = {
     "eslint linebreak-style": [0, "error", "windows"],
   },
 };
-/*lçdslp*/
